@@ -1,0 +1,24 @@
+{
+  "name": "chips_bot",
+  "version": "1.0.0",
+  "description": "Gambling bot for discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowIsReal/Chips_Bot.git"
+  },
+  "keywords": [
+    "gambling",
+    "discord",
+    "bot"
+  ],
+  "author": "Shadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadowIsReal/Chips_Bot/issues"
+  },
+  "homepage": "https://github.com/ShadowIsReal/Chips_Bot#readme"
+}
